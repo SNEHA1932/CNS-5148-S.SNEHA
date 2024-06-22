@@ -28,3 +28,7 @@ int main() {
  printf("Encrypted message: %s", text);
  return 0;
 }
+OUTPUT:
+Enter a message to encrypt: HELLO
+Enter the key: 3
+Encrypted message: KHOOR
