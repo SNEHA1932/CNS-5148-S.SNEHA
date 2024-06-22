@@ -77,3 +77,10 @@ int main() {
     printf("\n");
     return 0;
 }
+OUTPUT:
+Affine Cipher Parameters:
+a = 7
+b = 12
+
+Plaintext:
+YEQX_GSTDKXBKJB_DKXK
