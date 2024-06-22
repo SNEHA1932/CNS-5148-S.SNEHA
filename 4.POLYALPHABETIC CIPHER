@@ -53,3 +53,7 @@ int main() {
 
     return 0;
 }
+OUTPUT:
+Enter the plaintext: javapoint
+Enter the key: good
+Encrypted text: pojdvcwqz
