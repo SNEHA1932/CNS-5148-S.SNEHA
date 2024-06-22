@@ -46,3 +46,5 @@ int main() {
     hillCipherEncrypt(keyMatrix, input, len);
     return 0;
 }
+OUTPUT:
+Number of possible keys for the Playfair cipher: 3517267638786981888
